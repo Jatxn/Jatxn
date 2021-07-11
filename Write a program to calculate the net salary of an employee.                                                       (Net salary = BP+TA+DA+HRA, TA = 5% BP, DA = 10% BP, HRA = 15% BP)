@@ -1,0 +1,7 @@
+#program to calculate the net salary of an employee
+BP  = int(input('Enter basic pay of an employee :  '))
+TA = 5/100* BP
+DA = 10/100* BP
+HRA = 15/100*BP
+Netsalary = BP+TA+DA+HRA
+print('Total salary of an employee',Netsalary)
