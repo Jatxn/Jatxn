@@ -1,0 +1,4 @@
+#program to read something from the input console and write it to the output console
+print ("Enter any one number from 1-10")
+n=input()
+print("You entered",n)
