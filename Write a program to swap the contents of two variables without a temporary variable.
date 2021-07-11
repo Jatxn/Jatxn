@@ -1,0 +1,6 @@
+#program to swap the contents of two variables without a temporary variable
+a = input('Enter the first number : ')
+b = input('Enter the second number : ')
+a,b = b,a
+print('Swapped ',a)
+print(b)
