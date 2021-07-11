@@ -1,0 +1,7 @@
+#program to find the sum and difference of two numbers
+x=int(input("Enter first number:")) 
+y=int(input("Enter second number:"))
+a=x+y
+b=x-y
+print("the sum is:",a)
+print("the difference is:",b)
